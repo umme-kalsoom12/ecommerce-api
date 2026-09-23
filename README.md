@@ -107,3 +107,11 @@ Tested manually via Postman for:
 
 Node.js, Express, GraphQL (express-graphql, graphql), CORS, in-memory data store (no external DB required for this lab).
 
+
+<img width="410" height="114" alt="SS3" src="https://github.com/user-attachments/assets/cc4fb267-6f9a-4d70-8fd9-e2854037f021" />
+<img width="493" height="421" alt="ss6" src="https://github.com/user-attachments/assets/bb988f53-8429-499e-adf2-19e98a6bd1ba" />
+<img width="473" height="483" alt="SS5" src="https://github.com/user-attachments/assets/82b16bfb-fc9a-46fd-b7d5-405b80ef748d" />
+<img width="960" height="170" alt="SS4" src="https://github.com/user-attachments/assets/9aeb1349-a404-49fd-80c1-36a8db81ff18" />
+<img width="955" height="443" alt="SS2" src="https://github.com/user-attachments/assets/698dfd55-6ce6-43cc-b132-d210546d561e" />
+<img width="952" height="444" alt="SS" src="https://github.com/user-attachments/assets/11b9d7e9-80f7-4639-a2e3-fb6769bc6382" />
+
